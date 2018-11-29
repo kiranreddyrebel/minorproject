@@ -39,7 +39,7 @@ If you liked the idea and if you have any suggestion to improve then please do l
 
 # Delete Records
 
-![alt text](https://github.com/kiranreddyrebel/minorproject/blob/master/9.jpg?raw=true "Delete data records")
+![alt text](https://github.com/kiranreddyrebel/minorproject/blob/master/10.jpg?raw=true "Delete data records")
 
 
 # Dev (mode)
